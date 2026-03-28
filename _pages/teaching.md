@@ -9,9 +9,9 @@ I have served as Instructor of Record for three courses at the University of Ark
 
 ### Instructor of Record — University of Arkansas
 
-- [Introduction to Ethics](/files/Ethics.pdf)
-- [Introduction to Philosophy](/files/Intro.pdf)
-- [Introduction to Logic](/files/Logic.pdf)
+- [Introduction to Ethics](https://thcotton.github.io/files/Ethics.pdf)
+- [Introduction to Philosophy](https://thcotton.github.io/files/Intro.pdf)
+- [Introduction to Logic](https://thcotton.github.io/files/Logic.pdf)
 
 In addition, I have worked as a Teaching Assistant at both the University of Arkansas and the University of California, Irvine.
 
