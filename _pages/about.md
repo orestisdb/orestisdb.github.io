@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am a Ph.D. student in the [Department of Logic and Philosophy of Science at the University of California, Irvine](https://www.lps.uci.edu/). My work sits at the intersection of philosophy of science, philosophy of AI, social epistemology, and applied machine learning and data science.
+I am a Ph.D. student in the [Department of Logic and Philosophy of Science at the University of California, Irvine](https://www.lps.uci.edu/). My work sits at the intersection of philosophy of science, philosophy of AI, social epistemology, and computational methods (in particular, applied machine learning and data science).
 
 My research focuses on how AI systems shape and reveal patterns in human knowledge, behavior, and communication. In my current work, I develop and apply computational methods to analyze large-scale patterns in scientific metaphors. I also draw on feminist epistemology to interpret how AI systems reflect and reproduce knowledge.
 
