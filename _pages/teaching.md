@@ -5,24 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 <br>
-I have served as Instructor of Record for three courses at the University of Arkansas. Syllabi are available below.
 
-## Instructor of Record, University of Arkansas
+## Teaching Assistant, University of Amsterdam
 
-- [Introduction to Ethics](https://thcotton.github.io/files/Ethics.pdf)
-- [Introduction to Philosophy](https://thcotton.github.io/files/Intro.pdf)
-- [Introduction to Logic](https://thcotton.github.io/files/Logic.pdf)
-
-In addition, I have worked as a Teaching Assistant at both the University of Arkansas and the University of California, Irvine.
-
-## Teaching Assistant, University of Arkansas
-
-- Introduction to Philosophy
+- Metalogic (Minor in Logic & Computation)
 
 ## Teaching Assistant, University of California, Irvine
 
-- Race, Sex, and Science  
-- Critical Reasoning  
-- Honors: The Good Life  
-- Honors: Critical Issues in the Social Sciences  
-- Honors: Naturalized Epistemology
+- Introduction to Symbolic Logic
+- Introduction to Inductive Logic
